@@ -4,4 +4,3 @@ def meal_choice(meal = "meat")
   puts "I want #{meal}"
   meal_choice
 end
-meal_choice ("vegan")
